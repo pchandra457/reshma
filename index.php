@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Kelly Bootstrap Template - Index</title>
+  <title>Reshma - Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -26,13 +26,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Kelly - v4.7.0
-  * Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -44,8 +37,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-delay="100">
-      <h1>Kelly Adams</h1>
-      <h2>I'm a professional illustrator from San Francisco</h2>
+      <h1>Reshma Rayaroth Mamangalavan</h1>
+      <h2>I'm a Scrum Master from Chennai, India</h2>
       <a href="about.html" class="btn-about">About Me</a>
     </div>
   </section><!-- End Hero -->
