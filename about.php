@@ -142,29 +142,15 @@ m<!DOCTYPE html>
             </div>
             
             <div class="progress">
-              <span class="skill">Cloud Services <i class="val">40%</i></span>
+              <span class="skill">Multi-domain Programming <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
             
           </div>
 
           <div class="col-lg-6">
-
-            <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">Multi-domain Programming <i class="val">60%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
 
             <div class="progress">
               <span class="skill">Automation Tools <i class="val">60%</i></span>
@@ -184,6 +170,13 @@ m<!DOCTYPE html>
               <span class="skill">Program Management <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            
+            <div class="progress">
+              <span class="skill">Cloud Services <i class="val">40%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
