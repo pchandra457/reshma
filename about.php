@@ -93,7 +93,7 @@ m<!DOCTYPE html>
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-rounded-right"></i> <strong>Degree:</strong> Bachelor of Technology</li>
-                  <li><i class="bi bi-rounded-right"></i> <strong>PhEmailone:</strong> reshmarm07@gmail.com</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>Email Id:</strong> reshmarm07@gmail.com</li>
                   <li><i class="bi bi-rounded-right"></i> <strong>Freelance:</strong> Not Available</li>
                 </ul>
               </div>
