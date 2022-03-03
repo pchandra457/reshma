@@ -5,7 +5,7 @@ m<!DOCTYPE html>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Reshma</title>
+  <title>Reshma - About</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -26,13 +26,6 @@ m<!DOCTYPE html>
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Kelly - v4.7.0
-  * Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -41,7 +34,7 @@ m<!DOCTYPE html>
   <header id="header" class="fixed-top">
     <div class="container-fluid d-flex justify-content-between align-items-center">
 
-      <h1 class="logo me-auto me-lg-0"><a href="index.html">Kelly</a></h1>
+      <h1 class="logo me-auto me-lg-0"><a href="index.php">Reshma</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -76,7 +69,7 @@ m<!DOCTYPE html>
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>13 years of core IT experience versed in all aspects of project management from inception to completion. Excels in recruiting and talent acquisition, as well as process reengineering and improvement. Track record of on-time rollouts that met all project milestones and surpassed quality expectations.</p>
         </div>
 
         <div class="row">
@@ -84,7 +77,7 @@ m<!DOCTYPE html>
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Illustrator &amp; UI/UX Designer</h3>
+            <h3>Scrum Master &amp; Project Manager</h3>
             <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
@@ -92,24 +85,21 @@ m<!DOCTYPE html>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-rounded-right"></i> <strong>Birthday:</strong> 1 May 1995</li>
-                  <li><i class="bi bi-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
-                  <li><i class="bi bi-rounded-right"></i> <strong>Phone:</strong> +123 456 7890</li>
-                  <li><i class="bi bi-rounded-right"></i> <strong>City:</strong> City : New York, USA</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>Website:</strong> reshmarayarothmamangalavan.xyz/</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>Phone:</strong> +91 7358606468</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>City:</strong> Chennai, India</li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-rounded-right"></i> <strong>Age:</strong> 30</li>
-                  <li><i class="bi bi-rounded-right"></i> <strong>Degree:</strong> Master</li>
-                  <li><i class="bi bi-rounded-right"></i> <strong>PhEmailone:</strong> email@example.com</li>
-                  <li><i class="bi bi-rounded-right"></i> <strong>Freelance:</strong> Available</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>Degree:</strong> Bachelor of Technology</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>PhEmailone:</strong> reshmarm07@gmail.com</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>Freelance:</strong> Not Available</li>
                 </ul>
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+              Built successful project plans covering objectives, resources and staffing to meet schedules for Transportation, Educational, IT services, Banking and Network domain application. Provided extensive guidance on Agile scrum processes and methodologies to highly effective teams with goals of improving quality and productivity.
             </p>
           </div>
         </div>
@@ -123,7 +113,7 @@ m<!DOCTYPE html>
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Managing and delivering complex software applications in an agile/scrum environment.</p>
         </div>
 
         <div class="row skills-content">
@@ -131,23 +121,23 @@ m<!DOCTYPE html>
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">Scrum and Agile Proficiency <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
+              <span class="skill">Software Automation <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
+              <span class="skill">Quality Assurance Testing <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -163,16 +153,37 @@ m<!DOCTYPE html>
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+              <span class="skill">Multi-domain Programming <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <span class="skill">Automation Tools <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            
+            <div class="progress">
+              <span class="skill">Risk Mitigation Planning <i class="val">70%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            
+            <div class="progress">
+              <span class="skill">Cloud Services <i class="val">40%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            
+            <div class="progress">
+              <span class="skill">Program Management <i class="val">70%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
