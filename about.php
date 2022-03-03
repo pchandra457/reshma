@@ -85,7 +85,7 @@ m<!DOCTYPE html>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-rounded-right"></i> <strong>Website:</strong> reshmarayarothmamangalavan.xyz/</li>
+                  <li><i class="bi bi-rounded-right"></i> <strong>Website:</strong> reshmarayarothmamangalavan.xyz</li>
                   <li><i class="bi bi-rounded-right"></i> <strong>Phone:</strong> +91 7358606468</li>
                   <li><i class="bi bi-rounded-right"></i> <strong>City:</strong> Chennai, India</li>
                 </ul>
